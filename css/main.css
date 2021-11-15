@@ -376,7 +376,7 @@ ul li:nth-child(5) {
 #brownsc {
     width: 100%;
     margin-top: 25px;
-    background-image: url("/images/browns.png");
+    background-image: url("./images/browns.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -385,7 +385,7 @@ ul li:nth-child(5) {
 #whitesc {
     width: 100%;
     margin-top: 25px;
-    background-image: url("/images/whites.png");
+    background-image: url("images/whites.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
