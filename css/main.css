@@ -247,7 +247,7 @@ ul {
     grid-column: 3;
     grid-row: 1/4;
     width: 436px;
-    background-image: url("{{ site.baseurl}}/images/banner436-01.jpg");
+    background-image: url("https://ulut0001.github.io/mtm6201-midterm/images/banner436-01.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -258,7 +258,7 @@ ul {
     grid-column: 3;
     grid-row: 1/4;
     width: 436px;
-    background-image: url("http://ulut0001.github.io/mtm6201-midterm/images/banner436-02-01.jpg");
+    background-image: url("https://ulut0001.github.io/mtm6201-midterm/images/banner436-02-01.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
