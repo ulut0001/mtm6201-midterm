@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mamas Ice-Cream</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Lemon&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/main.css">
+
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li class="navlink outer leftnav"><div><a href="index.html">Home</a></div></li>
+                <li class="navlink inner leftnav"><a href="select.html">Select</a></li>
+                <li id="mainbanner"><a href="index.html"></a></li>
+                <li class="navlink inner rightnav"><a href="location.html">Location</a></li>
+                <li class="navlink outer rightnav"><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div id="contactus">
+        <h2>Contact Us</h2>
+        <div id="directcomm">
+            <h3>Send us a message</h3>
+            <form action="contact.html" method="GET">
+                <div>
+                    <label for="fullname" class="formtitle">Your Name</label>
+                    <input type="text" id="fullname" name="fullname" placeholder="Your Name">
+                </div>
+                <div>
+                    <label for="youremail" class="formtitle">Email</label>
+                    <input type="email" name="email" id="youremail" placeholder="name@starmail.com">
+                </div>
+                <div>
+                    <label for="textbox" class="formtitle">Your Message</label>
+                    <textarea name="textbox" id="textbox" cols="30" rows="10">I would like to ask about...</textarea>
+                </div>
+                <div>
+                    <button type="submit" class="formbutton">Send</button>
+                    <button type="reset" class="formbutton" id="resetbutton">Reset</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
