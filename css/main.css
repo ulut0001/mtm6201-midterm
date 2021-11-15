@@ -247,7 +247,7 @@ ul {
     grid-column: 3;
     grid-row: 1/4;
     width: 436px;
-    background-image: url("/images/banner436-01.jpg");
+    background-image: url("https://ulut0001.github.io/mtm6201-midterm/images/banner436-01.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -258,7 +258,7 @@ ul {
     grid-column: 3;
     grid-row: 1/4;
     width: 436px;
-    background-image: url("/images/banner436-02-01.jpg");
+    background-image: url("https://ulut0001.github.io/mtm6201-midterm/images/banner436-02-01.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -376,7 +376,7 @@ ul li:nth-child(5) {
 #brownsc {
     width: 100%;
     margin-top: 25px;
-    background-image: url("/images/browns.png");
+    background-image: url("https://ulut0001.github.io/mtm6201-midterm/images/browns.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -385,7 +385,7 @@ ul li:nth-child(5) {
 #whitesc {
     width: 100%;
     margin-top: 25px;
-    background-image: url("/images/whites.png");
+    background-image: url("https://ulut0001.github.io/mtm6201-midterm/images/whites.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -394,7 +394,7 @@ ul li:nth-child(5) {
 #bluesc {
     width: 100%;
     margin-top: 25px;
-    background-image: url("/images/blues.png");
+    background-image: url("https://ulut0001.github.io/mtm6201-midterm/images/blues.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -403,7 +403,7 @@ ul li:nth-child(5) {
 #pinksc {
     width: 100%;
     margin-top: 25px;
-    background-image: url("/images/pinks.png");
+    background-image: url("https://ulut0001.github.io/mtm6201-midterm/images/pinks.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -412,7 +412,7 @@ ul li:nth-child(5) {
 #orangesc {
     width: 100%;
     margin-top: 25px;
-    background-image: url("/images/oranges.png");
+    background-image: url("https://ulut0001.github.io/mtm6201-midterm/images/oranges.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -420,7 +420,7 @@ ul li:nth-child(5) {
 
 #emptysc {
     width: 100%;
-    background-image: url("/images/Empty.png");
+    background-image: url("https://ulut0001.github.io/mtm6201-midterm/images/Empty.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -428,7 +428,7 @@ ul li:nth-child(5) {
 
 #emptyscbig {
     width: 100%;
-    background-image: url("/images/Empty.png");
+    background-image: url("https://ulut0001.github.io/mtm6201-midterm/images/Empty.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -437,7 +437,7 @@ ul li:nth-child(5) {
 }
 
 #jackstraw {
-    background-image: url("/images/Group22.png");
+    background-image: url("https://ulut0001.github.io/mtm6201-midterm/images/Group22.png");
     width: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -448,7 +448,7 @@ ul li:nth-child(5) {
 }
 
 #absolcit {
-    background-image: url("/images/Group19.png");
+    background-image: url("https://ulut0001.github.io/mtm6201-midterm/images/Group19.png");
     width: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -459,7 +459,7 @@ ul li:nth-child(5) {
 }
 
 #cofcar {
-    background-image: url("/images/Group23.png");
+    background-image: url("https://ulut0001.github.io/mtm6201-midterm/images/Group23.png");
     width: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -470,7 +470,7 @@ ul li:nth-child(5) {
 }
 
 #aftermint {
-    background-image: url("/images/Group24.png");
+    background-image: url("https://ulut0001.github.io/mtm6201-midterm/images/Group24.png");
     width: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -610,7 +610,7 @@ ul li:nth-child(5) {
     }
 
     #mainbanner {
-        background-image: url("/images/banner768.jpg");
+        background-image: url("https://ulut0001.github.io/mtm6201-midterm/images/banner768.jpg");
         background-size: cover;
         box-sizing: border-box;
         grid-column: 1/5;
@@ -621,7 +621,7 @@ ul li:nth-child(5) {
     }
 
     #mainbannerliq {
-        background-image: url("/images/banner768-02-01.jpg");
+        background-image: url("https://ulut0001.github.io/mtm6201-midterm/images/banner768-02-01.jpg");
         background-size: cover;
         box-sizing: border-box;
         grid-column: 1/5;
@@ -719,42 +719,42 @@ ul li:nth-child(5) {
     }
 
     #mainbanner {
-        background-image: url("/images/banner436-01.jpg");
+        background-image: url("https://ulut0001.github.io/mtm6201-midterm/images/banner436-01.jpg");
         background-size: contain;
     }
 
     #mainbannerliq {
-        background-image: url("/images/banner436-02-01.jpg");
+        background-image: url("https://ulut0001.github.io/mtm6201-midterm/images/banner436-02-01.jpg");
         background-size: contain;
     }
 }
 
 #whitesc:hover~div:nth-of-type(6) {
-    background-image: url("/images/whites.png");
+    background-image: url("https://ulut0001.github.io/mtm6201-midterm/images/whites.png");
     animation-name: alsana;
     animation-duration: 600ms;
 }
 
 #bluesc:hover~div:nth-of-type(6) {
-    background-image: url("/images/blues.png");
+    background-image: url("https://ulut0001.github.io/mtm6201-midterm/images/blues.png");
     animation-name: alsana;
     animation-duration: 600ms;
 }
 
 #brownsc:hover~div:nth-of-type(6) {
-    background-image: url("/images/browns.png");
+    background-image: url("https://ulut0001.github.io/mtm6201-midterm/images/browns.png");
     animation-name: alsana;
     animation-duration: 600ms;
 }
 
 #pinksc:hover~div:nth-of-type(6) {
-    background-image: url("/images/pinks.png");
+    background-image: url("https://ulut0001.github.io/mtm6201-midterm/images/pinks.png");
     animation-name: alsana;
     animation-duration: 600ms;
 }
 
 #orangesc:hover~div:nth-of-type(6) {
-    background-image: url("/images/oranges.png");
+    background-image: url("https://ulut0001.github.io/mtm6201-midterm/images/oranges.png");
     animation-name: alsana;
     animation-duration: 600ms;
 }
